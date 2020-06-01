@@ -1,3 +1,3 @@
 # Binder
 
-App for managing complants and tracking updates of complaints based on flutter.
+App for managing complaints and tracking updates of complaints based on flutter.
