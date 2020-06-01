@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954279899338",
+    "firebase_url": "https://binder-42e86.firebaseio.com",
+    "project_id": "binder-42e86",
+    "storage_bucket": "binder-42e86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954279899338:android:e99351d21a771073f2c433",
+        "android_client_info": {
+          "package_name": "com.example.tmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954279899338-4es96f94av8lh3vjkt95003q6ri4l23a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwSoYJ5k-2JRm2UiQo3Kv7hKtxkBadmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954279899338-4es96f94av8lh3vjkt95003q6ri4l23a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
