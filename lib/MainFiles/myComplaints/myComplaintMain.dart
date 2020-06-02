@@ -90,7 +90,7 @@ class _myComplaintsState extends State<myComplaints> {
               child: Text("My Complaints",style: TextStyle(fontFamily: 'Roboto', color: Color(0xFF1467B3), fontSize: 18,fontWeight: FontWeight.w500)),
             ),
             new Container(
-                padding: EdgeInsets.only(top: 60),
+                padding: EdgeInsets.only(top: 50),
                 child: allData.length==0? new Text("no data") :
                 new ListView.builder(
                   itemCount: allData.length,
